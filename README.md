@@ -103,6 +103,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 
 🔧 **Installation Requirements**
+
 Make sure you have the following dependencies installed:
 
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
