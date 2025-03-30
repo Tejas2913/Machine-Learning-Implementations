@@ -21,6 +21,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
   🏗️ Feature engineering to improve model performance
 
+---
 
 ❓ **2. Handling Missing Values**
 
@@ -32,9 +33,11 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
  
   📉 Strategies to minimize data loss while preserving information
 
-
+---
 
 🤖 **3. Machine Learning Algorithms**
+
+---
 
 🎯 **K-Nearest Neighbors (KNN)**
 
@@ -44,7 +47,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 🏷️ Real-world classification examples
 
-
+---
 
 🏆**Naïve Bayes Classifier**
 
@@ -52,7 +55,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 📊 Understanding conditional probabilities
 
-
+---
 
 🌳 **Decision Tree**
 
@@ -62,7 +65,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 🧐 Understanding feature importance
 
-
+---
 
 📉 **Simple Linear Regression (SLR)**
 
@@ -72,7 +75,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 🏅 Model performance evaluation
 
-
+---
 
 📊 **Multiple Linear Regression (MLR)**
 
