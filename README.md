@@ -37,7 +37,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 🤖 **3. Machine Learning Algorithms**
 
----
+
 
 🎯 **K-Nearest Neighbors (KNN)**
 
