@@ -2,6 +2,7 @@
 
 Welcome to my Machine Learning Repository! 🎯 This is where data meets intelligence—a collection of my machine learning projects, where I explore datasets, tackle challenges, and implement cutting-edge algorithms. Whether you're just getting started or looking for inspiration, this repo has something for you! 💡
 
+
 ### 📌 What's Inside?
 
 🔍 **1. Exploratory Data Analysis (EDA)**
@@ -29,6 +30,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 🤖 **3. Machine Learning Algorithms**
 
 🎯 **K-Nearest Neighbors (KNN)**
+
 📌 Finding the optimal K for accuracy
 
 📏 Distance metrics: Euclidean, Manhattan & more
@@ -37,12 +39,14 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 
 🏆**Naïve Bayes Classifier**
+
 🎲 Making probability-based predictions
 
 📊 Understanding conditional probabilities
 
 
 🌳 **Decision Tree**
+
 📊 Building interpretable models
 
 ✂️ Avoiding overfitting with pruning
@@ -51,6 +55,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 
 📉 **Simple Linear Regression (SLR)**
+
 🔢 Predicting with one feature
 
 📏 Best-fit regression line
@@ -59,6 +64,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 
 📊 **Multiple Linear Regression (MLR)**
+
 🎭 Handling multiple predictors
 
 🚨 Detecting & handling multicollinearity
@@ -67,6 +73,7 @@ Welcome to my Machine Learning Repository! 🎯 This is where data meets intelli
 
 
 🎯 **How to Use**
+
 💡 Getting started is easy!
 
 🛠️ Open the Jupyter Notebooks to explore the code and results.
@@ -83,6 +90,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 
 🤝 **Contributing**
+
 🚀 Have ideas for improvement? Join the journey!
 
 🏗️ Improve models
